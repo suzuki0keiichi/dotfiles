@@ -14,8 +14,6 @@ set noswapfile
 set nobackup
 set clipboard+=unnamed
 set smartcase
-set lines=60
-set columns=140
 set visualbell
 set hlsearch
 set encoding=utf-8
